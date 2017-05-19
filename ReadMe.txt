@@ -1,6 +1,12 @@
 ﻿Simple Unity game based on the fair ground game Kentucky Derby
 
-Build for Android 5+
+New version 1.0.3
+
+Now for built for Android 4.4+
+
+New scoring scheme. Points per scoring ball increases until a ball fails to score.
+Accuracy is better than speed. You can now tell which ball is active to be thrown by
+colour.
 
 Copyright: RedPandaPlay
 
