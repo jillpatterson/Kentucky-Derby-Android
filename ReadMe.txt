@@ -1,6 +1,6 @@
 ﻿Simple Unity game based on the fair ground game Kentucky Derby
 
-New version 1.0.3
+New version 1.1.0
 
 Now for built for Android 4.4+
 
